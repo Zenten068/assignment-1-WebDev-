@@ -1,1 +1,2 @@
-![Alt text](Final Output.png)
+![Dashboard screenshot](assignment-1-WebDev-
+/Final Output.png)
