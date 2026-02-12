@@ -1,2 +1,1 @@
-![Dashboard screenshot](assignment-1-WebDev-
-/Final Output.png)
+![Dashboard screenshot](/Final Output.png)
