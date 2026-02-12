@@ -1,38 +1,3 @@
-/* .cards{
-    position: relative;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    margin: 10px;
-    width: 200px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    background-color: rgb(107, 226, 226);
-    border: solid 1px black;
-}
-.dltcard{
-    position: absolute;
-    top: 5px;
-    right: 5px;
-    background-color: red;
-    color: white;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-h1{
-    display: flex;
-    justify-content: center;
-    background-color: #c90000;
-}
-.container{
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-} */
- /* General Reset */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -147,7 +112,7 @@ header h1 {
     background-color: #792bdf;
 }
 
-.action-buttons {
+.buttons {
     display: flex;
     gap: 15px;
     margin-bottom: 20px;
